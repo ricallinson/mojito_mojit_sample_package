@@ -1,4 +1,4 @@
-To use npm for packaging Mojits you first need to update your application.json with a =mojitDirs= key.
+To use npm for packaging Mojits you first need to update your application.json with a *mojitDirs* key.
 
     [
         {
