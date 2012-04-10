@@ -12,6 +12,8 @@ To use npm for packaging Mojits you first need to update your application.json w
         }
     ]
 
+Once that's done you then execute npm commands from within that Mojito application directory.
+
 You can use npm to link to a Mojit as you develop it.
 
     npm link ../dir/to/mojit
