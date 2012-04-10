@@ -12,11 +12,11 @@ To use npm for packaging Mojits you first need to update your application.json w
         }
     ]
 
-You can use npm to link to the required Mojit as you develop it.
+You can use npm to link to a Mojit as you develop it.
 
     npm link ../dir/to/mojit
 
-Then when your done you install it like any other package.
+Once you've publish your Mojit it's then installed like any other npm package.
 
     npm install mojit_package_name
 
