@@ -1,5 +1,5 @@
 {
-    "name": "baz",
+    "name": "mojit_name_that_can_be_different_from_the_folder_name",
     "description": "An example of how to use npm for packaging Mojito Mojits.",
     "version": "0.0.1",
     "author": {
